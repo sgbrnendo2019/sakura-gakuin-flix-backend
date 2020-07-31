@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "titulo": "Sakura Gakuin",
+    "cor": "#eb2184",
+    "link_extra": {
+      "text": "SG Website",
+      "url": "https://www.sakuragakuin.jp/"
+    }
+  },
+  {
+    "id": 2,
+    "titulo": "Babymetal",
+    "cor": "#db011a",
+    "link_extra": {
+      "text": "Babymetal YT channel",
+      "url": "https://www.youtube.com/user/BABYMETALofficial"
+    }
+  },
+  {
+    "id": 3,
+    "titulo": "Other",
+    "cor": "#9cd33b"
+  }
+]
